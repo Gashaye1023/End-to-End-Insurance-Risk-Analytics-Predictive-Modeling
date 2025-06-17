@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+notebooks/MachineLearningRating_v3_processed.csv filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.dvc filter=lfs diff=lfs merge=lfs -text
